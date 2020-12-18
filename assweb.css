@@ -1,0 +1,57 @@
+body {
+    background-color:black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+h1{
+font-size :300%;
+text-align:center;
+color: yellow;
+}
+h2{
+    color: yellow;
+    font-size :300%;
+    text-align:center;
+}
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+  }
+  
+p {
+
+   
+    font-family :courier;
+    color :yellow;
+    text-align:left;
+}
+
+p1{
+    background-color : royalblue;
+    font-family :courier;
+    color :yellow;
+    text-align:left;}
+p2{
+    
+        font-family : courier;
+    color :yellow;
+    text-align:left;}
+p2:hover{
+    color: red;
+}
+p3{
+       
+            font-family : courier;
+        color : yellow;
+        text-align:left;
+    
+    }
+p4{
+   
+                font-family : courier;
+            color : yellow;
+            text-align:left;}
